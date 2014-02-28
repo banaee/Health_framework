@@ -77,7 +77,7 @@ public class Anagrams extends JFrame {
 
     private int wordIdx = 0;
     private WordLibrary wordLibrary;
-
+    private int gittestt = 2;
     /** Creates new form Anagrams */
     public Anagrams() {
         wordLibrary = WordLibrary.getDefault();
