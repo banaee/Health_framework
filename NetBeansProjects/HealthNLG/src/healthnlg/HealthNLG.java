@@ -50,7 +50,7 @@ public class HealthNLG {
         //Parameters
         int argumentcounter = 0;
         int filenumer = 1;    // = args[argumentcounter++]; 
-
+        int testgit=2;
         //checked boxes array
 
         leoss_bndwdth = Double.parseDouble("0.01"); // args[argumentcounter++];
